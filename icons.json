@@ -34,6 +34,7 @@
 		"_f_winrar": { "iconPath": "./extension/winrar.svg" },
 		"_f_xml": { "iconPath": "./extension/xml.svg" },
 		"_f_yaml": { "iconPath": "./extension/yaml.svg" },
+		"_f_zig": { "iconPath": "./extension/zig.svg" },
 
 		"_fd_vscode_close": { "iconPath": "./other/vscode-close.svg" },
 		"_fd_vscode_open": { "iconPath": "./other/vscode-open.svg" },
@@ -86,6 +87,7 @@
 		"xml": "_f_xml",
 		"yaml": "_f_yaml",
 		"yml": "_f_yaml",
+		"zig": "_f_zig",
 		"zip": "_f_winrar"
 	},
 	"folderNames": {
