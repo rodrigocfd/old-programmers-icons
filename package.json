@@ -1,0 +1,41 @@
+{
+	"name": "old-programmers-icons",
+	"displayName": "Old Programmer's Icons",
+	"description": "No fuss, distinguishable icons for old programmers with tired eyes, for Visual Studio Code.",
+	"version": "1.0.0",
+	"license": "MIT",
+	"author": {
+		"name": "Rodrigo César de Freitas Dias",
+		"email": "rcesar@gmail.com"
+	},
+	"publisher": "rodrigocfd",
+	"categories": ["Other", "Themes"],
+	"keywords": ["icons", "theme", "icon-theme", "customization"],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rodrigocfd/old-programmers-icons.git"
+	},
+	"bugs": {
+		"url": "https://github.com/rodrigocfd/old-programmers-icons/issues"
+	},
+	"icon": "logo.png",
+	"engines": {
+		"vscode": "^1.70.0"
+	},
+	"scripts": {
+		"pack": "vsce package",
+		"publish": "vsce publish"
+	},
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "old-programmers-icons",
+				"label": "Old Programmer's Icons",
+				"path": "./icons.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"@vscode/vsce": "^3.2.1"
+	}
+}
