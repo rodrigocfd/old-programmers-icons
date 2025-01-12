@@ -6,6 +6,7 @@
 		"_fd_default-open": { "iconPath": "./other/folder-open.svg" },
 
 		"_f_css": { "iconPath": "./extension/css.svg" },
+		"_f_go": { "iconPath": "./extension/go.svg" },
 		"_f_html": { "iconPath": "./extension/html.svg" },
 		"_f_icon": { "iconPath": "./extension/icon.png" },
 		"_f_image": { "iconPath": "./extension/image.png" },
@@ -51,6 +52,7 @@
 		"css": "_f_css",
 		"d.ts": "_f_typescript_def",
 		"gif": "_f_image",
+		"go": "_f_go",
 		"html": "_f_html",
 		"ico": "_f_icon",
 		"ini": "_f_settings",
