@@ -23,8 +23,7 @@
 		"vscode": "^1.70.0"
 	},
 	"scripts": {
-		"pack": "vsce package",
-		"publish": "vsce publish"
+		"pack": "vsce package"
 	},
 	"contributes": {
 		"iconThemes": [

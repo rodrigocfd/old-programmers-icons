@@ -1,6 +1,6 @@
 # Old Programmer's Icons
 
-No fuss, distinguishable icons for old programmers with tired eyes, for Visual Studio Code.
+Visual Studio Code icon pack – no fuss, distinguishable icons for programmers with tired eyes.
 
 ## Motivation
 
