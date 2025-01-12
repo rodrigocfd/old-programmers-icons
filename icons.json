@@ -62,6 +62,7 @@
 		"rar": "_f_winrar",
 		"rs": "_f_rust",
 		"sass": "_f_sass",
+		"scss": "_f_sass",
 		"sh": "_f_shell",
 		"svelte": "_f_svelte",
 		"svg": "_f_svg",
