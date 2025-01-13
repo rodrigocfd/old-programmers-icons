@@ -53,6 +53,7 @@
 		"conf": "_f_settings",
 		"css": "_f_css",
 		"d.ts": "_f_typescript_def",
+		"env": "_f_settings",
 		"gif": "_f_image",
 		"go": "_f_go",
 		"html": "_f_html",
