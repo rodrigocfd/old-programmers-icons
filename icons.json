@@ -43,6 +43,7 @@
 		"_f_eslint": { "iconPath": "./filename/eslint.svg" },
 		"_f_git": { "iconPath": "./filename/git.svg" },
 		"_f_gitlab": { "iconPath": "./filename/gitlab.svg" },
+		"_f_go_mod": { "iconPath": "./filename/go-mod.svg" },
 		"_f_npm": { "iconPath": "./filename/npm.svg" },
 		"_f_vite": { "iconPath": "./filename/vite.svg" }
 	},
@@ -104,6 +105,7 @@
 		".gitlab-ci.yaml": "_f_gitlab",
 		".gitlab-ci.yml": "_f_gitlab",
 		"eslint.config.js": "_f_eslint",
+		"go.mod": "_f_go_mod",
 		"package-lock.json": "_f_npm",
 		"package.json": "_f_npm",
 		"vite.config.ts": "_f_vite"
