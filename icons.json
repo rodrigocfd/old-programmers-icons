@@ -10,7 +10,7 @@
 		"_f_css": { "iconPath": "./extension/css.svg" },
 		"_f_exe": { "iconPath": "./extension/exe.svg" },
 		"_f_go": { "iconPath": "./extension/go.svg" },
-		"_f_header": { "iconPath": "./extension/header.svg" },
+		"_f_header": { "iconPath": "./extension/c-header.png" },
 		"_f_html": { "iconPath": "./extension/html.svg" },
 		"_f_icon": { "iconPath": "./extension/icon.png" },
 		"_f_image": { "iconPath": "./extension/image.png" },
