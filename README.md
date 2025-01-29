@@ -2,6 +2,8 @@
 
 Visual Studio Code icon pack – no fuss, distinguishable icons for programmers with tired eyes.
 
+![Sample](sample/sample.png)
+
 ## Motivation
 
 This Visual Studio Code icon pack was born out of frustration with other icon packs, which tend to be overwhelming with variations for everything, and ending up with similar icons.
