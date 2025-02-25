@@ -52,7 +52,8 @@
 		"_f_gitlab": { "iconPath": "./filename/gitlab.svg" },
 		"_f_go_mod": { "iconPath": "./filename/go-mod.svg" },
 		"_f_npm": { "iconPath": "./filename/npm.svg" },
-		"_f_vite": { "iconPath": "./filename/vite.svg" }
+		"_f_vite": { "iconPath": "./filename/vite.svg" },
+		"_f_zig_zon": { "iconPath": "./filename/zig-zon.svg" }
 	},
 	"file": "_file",
 	"folder": "_fd_default",
@@ -125,6 +126,7 @@
 		"go.mod": "_f_go_mod",
 		"package-lock.json": "_f_npm",
 		"package.json": "_f_npm",
-		"vite.config.ts": "_f_vite"
+		"vite.config.ts": "_f_vite",
+		"build.zig.zon": "_f_zig_zon"
 	}
 }
