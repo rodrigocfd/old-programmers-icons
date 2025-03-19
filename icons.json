@@ -52,6 +52,7 @@
 		"_f_git": { "iconPath": "./filename/git.svg" },
 		"_f_gitlab": { "iconPath": "./filename/gitlab.svg" },
 		"_f_go_mod": { "iconPath": "./filename/go-mod.svg" },
+		"_f_go_sum": { "iconPath": "./filename/go-sum.svg" },
 		"_f_npm": { "iconPath": "./filename/npm.svg" },
 		"_f_vite": { "iconPath": "./filename/vite.svg" },
 		"_f_zig_zon": { "iconPath": "./filename/zig-zon.svg" }
@@ -126,6 +127,7 @@
 		".gitlab-ci.yml": "_f_gitlab",
 		"eslint.config.js": "_f_eslint",
 		"go.mod": "_f_go_mod",
+		"go.sum": "_f_go_sum",
 		"package-lock.json": "_f_npm",
 		"package.json": "_f_npm",
 		"vite.config.ts": "_f_vite",
