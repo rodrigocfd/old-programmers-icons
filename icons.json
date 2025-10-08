@@ -111,6 +111,7 @@
 		"ts": "_f_typescript",
 		"tsx": "_f_react",
 		"txt": "_f_text",
+		"vcxproj": "_f_vcxproj",
 		"vsix": "_f_vsix",
 		"vue": "_f_vue",
 		"war": "_f_jar",
