@@ -2,7 +2,7 @@
 	"name": "old-programmers-icons",
 	"displayName": "Old Programmer's Icons",
 	"description": "No fuss, distinguishable icons for old programmers with tired eyes, for Visual Studio Code.",
-	"version": "1.0.12",
+	"version": "1.0.13",
 	"license": "MIT",
 	"author": {
 		"name": "Rodrigo César de Freitas Dias",
@@ -35,6 +35,6 @@
 		]
 	},
 	"devDependencies": {
-		"@vscode/vsce": "^3.6.0"
+		"@vscode/vsce": "^3.6.2"
 	}
 }

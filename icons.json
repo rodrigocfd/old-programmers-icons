@@ -40,6 +40,7 @@
 		"_f_toml": { "iconPath": "./extension/toml.svg" },
 		"_f_typescript_def": { "iconPath": "./extension/typescript-def.svg" },
 		"_f_typescript": { "iconPath": "./extension/typescript.svg" },
+		"_f_vcxproj": { "iconPath": "./extension/vcxproj.svg" },
 		"_f_vsix": { "iconPath": "./extension/vsix.svg" },
 		"_f_vue": { "iconPath": "./extension/vue.svg" },
 		"_f_winrar": { "iconPath": "./extension/winrar.svg" },
