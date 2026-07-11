@@ -5,6 +5,7 @@
 		"_fd_default": { "iconPath": "./other/folder-close.svg" },
 		"_fd_default-open": { "iconPath": "./other/folder-open.svg" },
 
+		"_f_bat": { "iconPath": "./extension/batch.svg" },
 		"_f_c": { "iconPath": "./extension/c.svg" },
 		"_f_cpp": { "iconPath": "./extension/cpp.svg" },
 		"_f_css": { "iconPath": "./extension/css.svg" },
@@ -14,6 +15,7 @@
 		"_f_header": { "iconPath": "./extension/c-header.svg" },
 		"_f_html": { "iconPath": "./extension/html.svg" },
 		"_f_icon": { "iconPath": "./extension/icon.png" },
+		"_f_idb": { "iconPath": "./extension/idb.png" },
 		"_f_image": { "iconPath": "./extension/image.png" },
 		"_f_jar": { "iconPath": "./extension/jar.svg" },
 		"_f_java": { "iconPath": "./extension/java.svg" },
@@ -66,6 +68,7 @@
 	"folder": "_fd_default",
 	"folderExpanded": "_fd_default-open",
 	"fileExtensions": {
+		"bat": "_f_bat",
 		"c": "_f_c",
 		"conf": "_f_settings",
 		"cpp": "_f_cpp",
@@ -81,6 +84,8 @@
 		"hpp": "_f_header",
 		"html": "_f_html",
 		"ico": "_f_icon",
+		"idb": "_f_idb",
+		"ilk": "_f_idb",
 		"ini": "_f_settings",
 		"ixx": "_f_cpp",
 		"jar": "_f_jar",
