@@ -116,6 +116,7 @@
 		"svelte": "_f_svelte",
 		"svg": "_f_svg",
 		"syso": "_f_syso",
+		"tlog": "_f_log",
 		"toml": "_f_toml",
 		"ts": "_f_typescript",
 		"tsx": "_f_react",
