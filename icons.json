@@ -87,6 +87,8 @@
 		"idb": "_f_idb",
 		"ilk": "_f_idb",
 		"ini": "_f_settings",
+		"iobj": "_f_idb",
+		"ipdb": "_f_idb",
 		"ixx": "_f_cpp",
 		"jar": "_f_jar",
 		"java": "_f_java",
