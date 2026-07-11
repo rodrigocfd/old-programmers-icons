@@ -15,7 +15,7 @@
 		"_f_header": { "iconPath": "./extension/c-header.svg" },
 		"_f_html": { "iconPath": "./extension/html.svg" },
 		"_f_icon": { "iconPath": "./extension/icon.png" },
-		"_f_idb": { "iconPath": "./extension/idb.png" },
+		"_f_idb": { "iconPath": "./extension/idb.svg" },
 		"_f_image": { "iconPath": "./extension/image.png" },
 		"_f_jar": { "iconPath": "./extension/jar.svg" },
 		"_f_java": { "iconPath": "./extension/java.svg" },
